@@ -1,7 +1,6 @@
 package br.com.riume.starship.sprite;
 
 import java.awt.event.KeyEvent;
-import java.lang.reflect.Parameter;
 
 import javax.swing.ImageIcon;
 
